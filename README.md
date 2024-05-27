@@ -17,6 +17,6 @@ The review notes and code in this repository is based on the University of Toron
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
 
