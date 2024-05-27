@@ -1,4 +1,4 @@
-# CSC207-Review-Notes-
+# CSC207-Review-Notes
 
 [点击这里查看中文版](./zh/README.md)
 
