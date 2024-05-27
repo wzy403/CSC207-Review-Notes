@@ -124,12 +124,12 @@ The CRC model illustrates how a class will collaborate with others to complete a
 *(For more detail, please refer to Lecture 1 slides starting from page 40):*
 <!-- ![CRC-Template](../img/CRC-layout.jpg) -->
 <p align="center">
-  <img src="../img/CRC-layout.jpg" alt="CRC-Template" />
-  <img src="../img/CRC-one-card-example.jpg" alt="CRC-Template" />
+  <img src="./img/CRC-layout.jpg" alt="CRC-Template" />
+  <img src="./img/CRC-one-card-example.jpg" alt="CRC-Template" />
 </p>
 
 **Usage Example**
 <!-- ![CRC-model-example](.../img/CRC-model-example.jpg) -->
 <p align="center">
-  <img src="../img/CRC-model-example.jpg" alt="CRC-model-example" />
+  <img src="./img/CRC-model-example.jpg" alt="CRC-model-example" />
 </p>
