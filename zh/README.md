@@ -10,6 +10,7 @@
 
 + 每周笔记
   + **[第一周（点我跳转）](../weekly-notes/week1.md)**
+  + **[第二周（点我跳转）](../weekly-notes/week2.md)**
 
 ## 作者
 
