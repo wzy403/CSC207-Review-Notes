@@ -1,7 +1,6 @@
 
 # Week 2 Study Notes
 
----
 
 ## Encapsulation and Access Control
 
@@ -34,7 +33,6 @@ Encapsulation is a core principle in object-oriented programming that helps in d
 
 - **Private Variables with Public Methods:** This approach provides better encapsulation as it allows controlled access and modification of variables, reducing potential bugs caused by unauthorized or incorrect modifications.
 
----
 
 ## Polymorphism and Inheritance
 
@@ -95,7 +93,6 @@ Polymorphism and inheritance are fundamental concepts that allow objects of diff
     }
     ```
 
----
 
 ## Association, Aggregation, Composition
 
@@ -110,7 +107,6 @@ In object-oriented programming, the relationships between classes can be classif
 - **Composition:** a stronger form of Aggregation. It implies ownership and a strong lifecycle dependency between the parent and child. If the parent object is destroyed, all child objects will also be destroyed.
   - It represents a "part-of" relationship, where the child cannot exist without the parent.
 
----
 
 ## Abstract Classes and Interfaces
 
@@ -165,7 +161,6 @@ public interface MyInterface {
 
 ```
 
----
 
 ## Generics
 
@@ -213,7 +208,6 @@ Generics allow classes and methods to operate on objects of various types while 
     ```
     *(Here we can only input `Integer` or its superclasses, such as `Number`, to this method)*
 
----
 
 ## UML Diagrams and Relationships
 
@@ -221,7 +215,6 @@ UML diagrams visually represent relationships between elements/classes, aiding i
 
 - **Arrows in UML:** Indicate relationships between elements/classes. Open arrowheads indicate inheritance, while solid arrowheads indicate composition. These arrows differ from memory model arrows, which represent references or pointers in memory.
 
----
 
 ## Software Development Concepts
 
@@ -232,4 +225,3 @@ Understanding user stories, use cases, and use case interactors is crucial for e
     - **Relation to Use Case Interactor:** Identifies necessary interactors for implementing the use case.
     - Example: If the user story is about checking item prices online, the use case might be "Search on Internet," and the interactor could be "PriceCheckInteractor."
 
----

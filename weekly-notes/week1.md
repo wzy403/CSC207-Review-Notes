@@ -11,7 +11,6 @@
 - **Sandboxing**: Changes can be made in a local environment without affecting the main repository until they are ready.
 - **Branching and Merging**: Facilitates the management of different versions and collaborative improvements before merging into the main branch.
 
----
 
 ## Git Actions
 **What do the four states in the "git status" report mean?**
@@ -33,7 +32,6 @@ Action A should be `git commit`. This is because committing records changes that
 - If the feature is staged or tracked, clone a copy of the remote repository and reintegrate all changes except for the new feature.
 - If the feature is pushed, use `git revert` to roll back to the version prior to the introduction of the feature, then commit and push these changes.
 
----
 
 ## Programming Languages
 **What is the difference between an "interpreted" language and a "compiled" language?**
