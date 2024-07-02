@@ -1,4 +1,3 @@
-
 # Week 2 Study Notes
 
 
