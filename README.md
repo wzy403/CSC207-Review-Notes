@@ -11,6 +11,9 @@ The review notes and code in this repository is based on the University of Toron
 + Weekly Notes
   + **[Week1 (Click me)](./weekly-notes/week1.md)**
   + **[Week2 (Click me)](./weekly-notes/week2.md)**
+  + **[Week3 (Click me)](./weekly-notes/week3.md)**
+  + **[Week4 (Click me)](./weekly-notes/week4.md)**
+  + **[Week5 (Click me)](./weekly-notes/week5.md)**
 
 ## Author
 

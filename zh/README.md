@@ -11,6 +11,9 @@
 + 每周笔记
   + **[第一周（点我跳转）](../weekly-notes/week1.md)**
   + **[第二周（点我跳转）](../weekly-notes/week2.md)**
+  + **[第三周（点我跳转）](../weekly-notes/week3.md)**
+  + **[第四周（点我跳转）](../weekly-notes/week4.md)**
+  + **[第五周（点我跳转）](../weekly-notes/week5.md)**
 
 ## 作者
 
