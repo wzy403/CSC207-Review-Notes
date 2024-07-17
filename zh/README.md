@@ -14,6 +14,8 @@
   + **[第三周（点我跳转）](../weekly-notes/week3.md)**
   + **[第四周（点我跳转）](../weekly-notes/week4.md)**
   + **[第五周（点我跳转）](../weekly-notes/week5.md)**
+  + **[第六周（点我跳转）](../weekly-notes/week6.md)**
+  + **[第七周（点我跳转）](../weekly-notes/week7.md)**
 
 ## 作者
 
