@@ -1,7 +1,5 @@
 ### Week 8 Study Notes
 
----
-
 ## Design Patterns
 
 ### Dependency Injection (DI)
