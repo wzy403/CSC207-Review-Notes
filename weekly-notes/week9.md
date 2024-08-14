@@ -33,8 +33,9 @@ This regex matches exactly three consecutive 'a' characters, like "aaa".
   - Use `{}` to specify the number of times a pattern should be matched.
   - **Example:** `(123){3}` matches "123123123".
 - **Repeating the same character multiple times:**
-  - Use `\1`, `\2`, etc., to refer back to a previously matched group.
+  - Use `\1`, `\2`, etc., to refer back to a `group1 (\1)`, `group2 (\2)`, etc., and repeating that group pattern again.
   - **Example:** `(abc)\1` matches "abcabc".
+  - **Example:** `(abc)(123)\1\2` matches "abc123abc123".
 
 ### Categorizing Regular Expression Symbols
 
