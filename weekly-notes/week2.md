@@ -1,6 +1,5 @@
 # Week 2 Study Notes
 
-
 ## Encapsulation and Access Control
 
 Encapsulation is a core principle in object-oriented programming that helps in data hiding and restricting unauthorized access or modifications to class variables. This is often achieved by making variables private and providing public getter and setter methods.
