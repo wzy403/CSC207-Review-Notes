@@ -67,7 +67,7 @@ Defining "disability" is challenging because it is subjective and varies greatly
 
 ### Social Model of Disability
 **Definition:**
-The social model of disability suggests that limitations are not caused by physical or mental impairments themselves, but by the way these impairments interact with societal structures, including stigma and environmental design.
+The social model of disability suggests that limitations are not caused by physical or mental impairments themselves, but by the way these impairments interact with societal structures, including stigma and environmental design. We tend to address disability by modifying the environment around it.
 
 **Example:**
 A person in a wheelchair is not disabled by their condition but by the lack of accessible infrastructure like ramps and elevators.
